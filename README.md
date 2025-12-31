@@ -14,5 +14,3 @@ The "AntibodyProduction_eval.ipynb" notebook:
   
    -Implement diversity-aware selection
   
-   -Structure your code like a real ML production scientist
-  
