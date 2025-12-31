@@ -1,18 +1,18 @@
-This "AntibodyProduction_eval.ipynb" notebook:
+The "AntibodyProduction_eval.ipynb" notebook:
 
-  Build a clean antibody-feature factory
+   -Build a clean antibody-feature factory
 
-  Run modeling with proper validation
+   -Run modeling with proper validation
   
-  Generate calibrated predictions
+   -Generate calibrated predictions
   
-  Explain decisions with SHAP
+   -Explain decisions with SHAP
   
-  Enforce manufacturability & immunogenicity heuristics
+   -Enforce manufacturability & immunogenicity heuristics
   
-  Provide a prioritized candidate list
+   -Provide a prioritized candidate list
   
-  Implement diversity-aware selection
+   -Implement diversity-aware selection
   
-  Structure your code like a real ML production scientist
+   -Structure your code like a real ML production scientist
   
